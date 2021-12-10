@@ -1,16 +1,11 @@
 
 TITLE: 
-Profile - 100% Fully Responsive Free HTML5 Bootstrap Template
+LAHRACHE Reda - Portfolio
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+LAHARCHE Reda
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
-
-CREDITS:
+THECHNOLOGIES :
 
 Bootstrap
 http://getbootstrap.com/
@@ -51,6 +46,4 @@ http://www.owlcarousel.owlgraphic.com/
 EasyPieChart
 https://github.com/rendro/easy-pie-chart
 
-Demo Images:
-http://unsplash.com
 
